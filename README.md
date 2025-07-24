@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 3rd-year **B.Tech - AI & DS** student at **PSNA College of Engineering and Technology**  
+🎓 **B.Tech - AI & DS** student at **PSNA College of Engineering and Technology**  
 💻 Passionate about solving real-world problems through **AI, Machine Learning, and Full Stack Development**  
 🌐 Based in **Dindigul, Tamil Nadu, India**  
 📊 Aiming to use **data for insights** and **AI for impact**
