@@ -1,72 +1,111 @@
-# 👋 Hi, I'm Balaguru G
+<p align="center">
+  <h1 align="center">Hi, I'm Balaguru G! 👋</h1>
+</p>
 
-🎓 **Artificial Intelligence and Data Science Undergraduate**  
-📍 Dindigul, India  
-📧 [balagurug22ad@psnacet.edu.in](mailto:balagurug22ad@psnacet.edu.in)  
-🔗 [LinkedIn](https://linkedin.com/in/balaguru-g-673627265) | [GitHub](https://github.com/Balaguru588)
-
----
-
-## 🚀 Career Objective
-
-To secure a position in the field of Artificial Intelligence and Machine Learning where I can apply my knowledge of data science, algorithm development, and model training to solve real-world problems, while enhancing my skills through continuous learning and impactful projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=AI+%26+DS+Student;Aspiring+Data+Scientist;Web+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠 Skills
+## 🚀 About Me
 
-- **Programming Languages:** Java, Python  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Database:** SQL, MongoDB  
-- **Analytics & Tools:** NumPy, Power BI, R, VS Code, PyCharm  
-- **Concepts:** Data Structures, AI, NLP  
-- **Soft Skills:** Communication, Problem Solving  
+🎓 3rd-year **B.Tech - AI & DS** student at **PSNA College of Engineering and Technology**  
+💻 Passionate about solving real-world problems through **AI, Machine Learning, and Full Stack Development**  
+🌐 Based in **Dindigul, Tamil Nadu, India**  
+📊 Aiming to use **data for insights** and **AI for impact**
 
 ---
 
-## 💼 Projects
+## 🧠 Skills
 
-- **🚗 Vehicle Smoke Emission Detection**  
-  AIoT-based system to detect excessive smoke emissions from vehicles in real-time.
-
-- **📱 Student Guidance App – iTech Hackfest**  
-  Conceptualized an educational guidance app for course recommendations and mentorship.
-
-- **🔥 Movement of Humans in Smoke – EDII Hackathon**  
-  AI model for human detection in smoke-filled environments to aid emergency response.
-
-- **❄️ AI-Powered Radiant Cooling System – Theerkathon Winner**  
-  Eco-friendly system that circulates water through PEX piping to regulate temperature efficiently.
-
-- **📰 Fake News Detection Web Application**  
-  Web app that flags fake news based on keyword analysis with a MongoDB-backed database.
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Winner – Theerkathon 2024 (StartupTN)**  
-- 🥉 **CodeChef Problem Solver Bronze Badge**  
-- 📜 **Presented at the 15th International Conference on Science & Innovative Engineering 2025**
-
----
-
-## 📑 Certifications
-
-- ✔️ HTML Certification – Lumos Learning  
-- ✔️ Cloud Security Fundamentals – Palo Alto Networks Academy  
-- ✔️ Data Visualization with Power BI – Great Learning  
-- ✔️ Google Generative AI Completion Badge  
-- ✔️ HackerRank Problem Solving (Basic)  
+**Languages:** Java, Python, SQL  
+**Web Development:** HTML, CSS, JavaScript  
+**Databases:** SQL, MongoDB  
+**Data Analytics & Tools:** NumPy, Power BI, R, VS Code, PyCharm  
+**Core Areas:** Data Structures, AI, NLP  
+**Soft Skills:** Communication, Problem Solving
 
 ---
 
 ## 🧪 Internships
 
-- **Python Programming – TechOctanet Services Pvt Ltd (Nov 2024)**  
-- **Data Science – CodeAlpha (Feb 2025)**  
-- **Data Science – Dot Com Infoway (June–July 2025)**  
+- **Dot Com Infoway** *(Jun – Jul 2025)*  
+  → Worked on data analysis, visualization using Python, Power BI & SQL.
+
+- **CodeAlpha** *(Feb 2025)*  
+  → Built predictive analytics models and dashboards in a data science internship.
+
+- **TechOctanet Services Pvt Ltd** *(Nov 2024)*  
+  → Gained practical experience in Python development and debugging.
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect or check out my projects!_
+## 🏆 Achievements
+
+- 🥇 **Winner - Theerkathon 2024 (StartupTN)**  
+  → Developed an AI-powered radiant cooling system integrating solar energy.
+
+- 🏅 **CodeChef Problem Solver Bronze Badge (July 2025)**  
+  → Solved 50+ coding problems on CodeChef.
+
+- 📜 **Presented at International Conference (April 2025)**  
+  → Presented research on sustainable AI cooling systems using PEX piping.
+
+---
+
+## 🔨 Projects
+
+- **Vehicle Smoke Emission Detection**  
+  Real-time AIoT system to monitor vehicle smoke and reduce pollution.
+
+- **Fake News Detection Web App**  
+  Detects misleading news articles using keyword logic and MongoDB.
+
+- **AI Radiant Cooling System (Theerkathon Winner)**  
+  Energy-efficient water-based cooling using AI and solar technology.
+
+- **Human Movement in Smoke Detection (EDII Hackathon)**  
+  AI system for emergency response to detect movement in smoke-filled areas.
+
+- **Student Guidance App (iTech Hackfest)**  
+  EdTech app providing career guidance and mentorship for students.
+
+---
+
+## 📜 Certifications
+
+- HTML Certification (Aug 2024)  
+- Cloud Security Fundamentals – Palo Alto Networks (Feb 2025)  
+- Data Visualization with Power BI (Aug 2024)  
+- Google Generative AI Badge (Nov 2024)  
+- HackerRank Problem Solving (Basic) (July 2025)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balaguru588&show_icons=true&theme=radical" alt="Balaguru's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaguru588&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/balaguru-g-673627265">
+    <img src="https://img.shields.io/badge/LinkedIn-Balaguru%20G-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:balagurug22ad@psnacet.edu.in">
+    <img src="https://img.shields.io/badge/Email-balagurug22ad%40psnacet.edu.in-red?style=flat&logo=gmail" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Balaguru588">
+    <img src="https://img.shields.io/badge/GitHub-Balaguru588-black?style=flat&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+_Thanks for visiting my GitHub profile! Let's connect and build together!_
